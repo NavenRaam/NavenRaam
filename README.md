@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Naven<br>🎓 Computer Science Undergraduate | 🚀 Tech Innovator<br><br>🔭 I’m currently working on:<br>Building web applications and exploring system architecture through personal and collaborative projects.<br><br>🤝 I’m looking to collaborate on:<br>Open-source projects, full-stack development, and innovative software solutions.<br><br>🧠 I’m looking for help with:<br>Scalable backend systems and implementing new styles .<br><br>🌱 I’m currently learning:<br>Advanced JavaScript frameworks, cloud computing, and system design.<br><br>⚡ Fun fact:<br>I love turning curious ideas into real-world tech solutions—coding is my superpower!
+# 👋 Hi there, I’m Naven
+<br>🎓 Computer Science Undergraduate | 🚀 Tech Innovator<br><br>🔭 I’m currently working on:<br>Building web applications and exploring system architecture through personal and collaborative projects.<br><br>🤝 I’m looking to collaborate on:<br>Open-source projects, full-stack development, and innovative software solutions.<br><br>🧠 I’m looking for help with:<br>Scalable backend systems and implementing new styles .<br><br>🌱 I’m currently learning:<br>Advanced JavaScript frameworks, cloud computing, and system design.<br><br>⚡ Fun fact:<br>I love turning curious ideas into real-world tech solutions—coding is my superpower!
 
 
 ## 🌐 Socials:
